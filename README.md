@@ -10,4 +10,6 @@ Controls
 
 Play!
 
-    Online https://dxrpz.itch.io/ludum-dare49 Download to Windows 10 https://github.com/1dxrpz/Fligh-forbidden/archive/refs/heads/main.zip
+    Online https://dxrpz.itch.io/ludum-dare49
+    
+    Download to Windows 10 https://github.com/1dxrpz/Fligh-forbidden/archive/refs/heads/main.zip
